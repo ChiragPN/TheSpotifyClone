@@ -8,4 +8,4 @@ HTML, CSS, Tailwind CSS
 <br>
 **HTML** & **CSS** are used to build User Interface(UI) and **Tailwind CSS** is used for the utility-first CSS framework to streamline styling and achieve a clean and modern design.
 
-`![Snapshot of the Spotify Clone](Snapshot.png)`
+![Snapshot](https://github.com/ChiragPN/TheSpotifyClone/assets/156441307/bf4bfb39-f9ab-45b3-86f3-be6b3ce02642)
